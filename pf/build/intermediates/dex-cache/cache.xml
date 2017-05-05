@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/konidalas/.android/build-cache/ea437f3daa5e60345b6dc975a49bbc9e41414352/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1b95f2bf44857a158b097e9f80d5d18d69f32584">
+        <dex dex="/Users/konidalas/src/vNext/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f3accf499df55f1878289429cf5e6fed2e3265d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/konidalas/src/vNext/mobile/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/konidalas/src/vNext/mobile/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4d23ff575a844e87089f4e8e2ffbdca28ad979fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/konidalas/.android/build-cache/49906bbd365edb37592c6874c752bba877f370d5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="/Users/konidalas/src/vNext/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/classes_24feb496c00abba7866e7f4ae1b78df9e956e578/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/konidalas/.android/build-cache/71713a5785484e9b25fb5ad13a602a323ee19f40/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="/Users/konidalas/src/vNext/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c9e70da95faf9822512b7ceb7f54f800a9f2fa9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/konidalas/src/vNext/mobile/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="28987a66d0c5ae52e9da7dc42a2d2f434ff367d2">
+        <dex dex="/Users/konidalas/src/vNext/mobile/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ad9a2290b6c24c0753aed2cffc1bee69d8efc826/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/konidalas/.android/build-cache/319d224defe03d962f1ab3d204eead9656976d73/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="/Users/konidalas/src/vNext/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bb7063e82ce4d515abdce360f8c130b5cba208a8/classes.dex" />
+    </item>
+
+</items>
